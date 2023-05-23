@@ -1,0 +1,1 @@
+## For this code need to be installed [Tesseract](https://github.com/tesseract-ocr/tesseract)
